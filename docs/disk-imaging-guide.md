@@ -1,2 +1,0 @@
-﻿# Disk Imaging Guide
-

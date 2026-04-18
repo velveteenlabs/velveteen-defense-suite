@@ -1,2 +1,0 @@
-﻿# Analyst Field Journal Guide
-
